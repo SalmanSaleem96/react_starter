@@ -5,7 +5,7 @@ import Routine from './routine.js';
 function App() {
   return (
     <div className="App">
-      <h1>Izhan Daily routine shows through props</h1>
+      <h1>Izhan Daily routine through parent child Component</h1>
       <Routine education="School" time="7:15 am" />
       <br/>
       <hr/>
